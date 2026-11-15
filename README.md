@@ -1,6 +1,6 @@
 # TJ Studios API
 
-<badge>Coming soon</badge>
+**Status: Coming soon**
 
 This repository is reserved for the public-facing API surface of the TJ Studios platform. It is not currently an installable or deployable API service.
 
